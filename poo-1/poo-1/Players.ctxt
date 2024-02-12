@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Players
+comment1.params=
+comment1.target=void\ act()
+comment2.params=b
+comment2.target=void\ apanhaChave(Barbie)
+comment3.params=k
+comment3.target=void\ apanhaChave(Ken)
+comment4.params=
+comment4.target=void\ apanhaBonus()
+comment5.params=direcao
+comment5.target=boolean\ checkForBGWall(char)
+numComments=6

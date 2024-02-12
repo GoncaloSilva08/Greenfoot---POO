@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=VidaPlayer2
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=int\ getHealthKen()
+comment3.params=hk
+comment3.target=void\ setHealthKen(int)
+comment4.params=hk
+comment4.target=void\ removeHealthKen(int)
+numComments=5

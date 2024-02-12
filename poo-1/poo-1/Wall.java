@@ -1,0 +1,12 @@
+import greenfoot.*;  
+
+public class Wall extends Level1
+{
+    /**
+     * Act - do whatever the Wall wants to do. This method is called whenever
+     * the 'Act' or 'Run' button gets pressed in the environment.
+     */
+    public void act()
+    {
+    }
+}

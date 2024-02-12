@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Nivel2
+comment1.params=
+comment1.target=Nivel2()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ addrocha1()
+comment4.params=
+comment4.target=void\ addbonus_azul1()
+comment5.params=bonus
+comment5.target=void\ resetBonusApanhados(int)
+numComments=6
